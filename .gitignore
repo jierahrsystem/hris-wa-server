@@ -1,0 +1,5 @@
+node_modules
+temp
+config/last.qr
+.wwebjs_auth/
+.wwebjs_cache/
